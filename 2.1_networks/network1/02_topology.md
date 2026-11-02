@@ -5,7 +5,9 @@
 ### 2.1 Devices Used
 List all devices added to your Packet Tracer workspace.
 
-_Write your list here…_
+ 1. 5 PCs (PC0, PC1, PC2, PC3 and PC4)
+
+2. 1 Cisco 2960 Switch
 
 ### 2.2 Topology Screenshot
 Insert your topology screenshot (saved inside `images/`).
