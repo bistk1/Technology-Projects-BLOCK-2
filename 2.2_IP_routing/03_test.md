@@ -13,3 +13,10 @@
 ## 3.3 Interpretation
 Explain what the ping results mean and what errors might look like.
 
+## 3.3 Explanation
+
+The ping command is used to check whether two devices can communicate with each other over a network. When the ping is successful, it shows replies from the other device with information such as the time taken to receive the reply. This means the connection is working properly.
+
+If the ping fails, an error message may appear, such as "Request timed out" or "Destination host unreachable". This can happen because of an incorrect IP address, a network cable problem or incorrect network settings.
+
+Successful ping results show that both Raspberry Pis can communicate with each other. It is a simple way to test the network connection.
