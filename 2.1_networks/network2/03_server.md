@@ -4,8 +4,6 @@
 ### 3.1 Static IP Settings  
 Describe how you configured the server's static IP.
 
-### 3.1 Static IP Settings
-
 I configured a static IP address for the server so that its IP address would remain the same. This allows the other computers to communicate with the server easily. I also configured the subnet mask and other required network settings.
 📸 **Screenshot: Server IP configuration**
 
